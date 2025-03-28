@@ -1,0 +1,2 @@
+org.flywaydb.database.kingbase.KingbaseDatabaseType
+org.flywaydb.database.kingbase.KingbaseConfigurationExtension
